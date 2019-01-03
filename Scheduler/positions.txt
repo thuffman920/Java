@@ -1,0 +1,4 @@
+sub bar	sub	7.0-22.0	1	2
+slice line	SL	6.0-22.0	1	-1
+salad bar	SB	6.0-22.0	0	1
+asian bar	Wok	6.0-22.0	1	2

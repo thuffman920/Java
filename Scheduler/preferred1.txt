@@ -1,0 +1,4 @@
+3	40	0.5	6
+Huffman, Tyler	p	6:00a-10:00p SL	6:00a-10:00p SL	6:00a-10:00p SL	6:00a-10:00p SL	6:00a-10:00p SL	6:00a-10:00p SL	6:00a-10:00p SL
+Reese, Ginny	p	6:00a-10:00p sub,SB,SL	6:00a-10:00p sub,SB,SL	6:00a-10:00p sub,SB,SL	6:00a-10:00p sub,SB,SL	12:00p-10:00p sub,SB,SL	6:00a-10:00p sub,SB,SL	6:00a-10:00p sub,SB,SL
+Doe, Gabe	p	2:00p-2:00p Wok	2:00p-2:00p Wok	12:00p-10:00p Wok	12:00p-10:00p Wok	12:00p-10:00p Wok	2:00p-2:00p Wok	2:00p-2:00p Wok
